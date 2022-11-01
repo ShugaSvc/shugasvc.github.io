@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-file-include": "^2.0.1",
     "gulp-help": "^1.6.1",
     "gulp-rename": "^1.2.2",
